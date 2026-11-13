@@ -1,0 +1,71 @@
+package com.example.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+// Dark Pine Studio Palette (Lush Emerald & Deep Forest)
+val DarkBackground = Color(0xFF05120C)
+val DarkSurface = Color(0xFF081B13)
+val DarkSurfaceContainerLowest = Color(0xFF030D09)
+val DarkSurfaceContainerLow = Color(0xFF0C241A)
+val DarkSurfaceContainer = Color(0xFF102E21)
+val DarkSurfaceContainerHigh = Color(0xFF163B2B)
+val DarkSurfaceContainerHighest = Color(0xFF1D4936)
+
+val DarkPrimary = Color(0xFF10B981)
+val DarkOnPrimary = Color(0xFF022C22)
+val DarkPrimaryContainer = Color(0xFF065F46)
+val DarkOnPrimaryContainer = Color(0xFFA7F3D0)
+
+val DarkSecondary = Color(0xFF6EE7B7)
+val DarkOnSecondary = Color(0xFF053829)
+val DarkSecondaryContainer = Color(0xFF0D4D3B)
+val DarkOnSecondaryContainer = Color(0xFFD1FAE5)
+
+val DarkTertiary = Color(0xFFA3E635)
+val DarkOnTertiary = Color(0xFF1A2E05)
+val DarkTertiaryContainer = Color(0xFF365314)
+val DarkOnTertiaryContainer = Color(0xFFECFCCB)
+
+val DarkOnBackground = Color(0xFFECFDF5)
+val DarkOnSurface = Color(0xFFE6F9F0)
+val DarkOnSurfaceVariant = Color(0xFF9AC7B2)
+val DarkOutline = Color(0xFF2B614A)
+val DarkOutlineVariant = Color(0xFF1A3F2F)
+val DarkError = Color(0xFFFF8A80)
+val DarkOnError = Color(0xFF4A0E0E)
+val DarkErrorContainer = Color(0xFF7F1D1D)
+val DarkOnErrorContainer = Color(0xFFFEE2E2)
+
+// Light Botanical Sage Palette (Crisp Mint & Deep Jade)
+val LightBackground = Color(0xFFF1FAF5)
+val LightSurface = Color(0xFFF7FCF9)
+val LightSurfaceContainerLowest = Color(0xFFFFFFFF)
+val LightSurfaceContainerLow = Color(0xFFE9F7EF)
+val LightSurfaceContainer = Color(0xFFDDF3E6)
+val LightSurfaceContainerHigh = Color(0xFFCFEBD9)
+val LightSurfaceContainerHighest = Color(0xFFC0E3CD)
+
+val LightPrimary = Color(0xFF047857)
+val LightOnPrimary = Color(0xFFFFFFFF)
+val LightPrimaryContainer = Color(0xFFA7F3D0)
+val LightOnPrimaryContainer = Color(0xFF022C22)
+
+val LightSecondary = Color(0xFF059669)
+val LightOnSecondary = Color(0xFFFFFFFF)
+val LightSecondaryContainer = Color(0xFFD1FAE5)
+val LightOnSecondaryContainer = Color(0xFF064E3B)
+
+val LightTertiary = Color(0xFF4D7C0F)
+val LightOnTertiary = Color(0xFFFFFFFF)
+val LightTertiaryContainer = Color(0xFFD9F99D)
+val LightOnTertiaryContainer = Color(0xFF1A2E05)
+
+val LightOnBackground = Color(0xFF062016)
+val LightOnSurface = Color(0xFF082419)
+val LightOnSurfaceVariant = Color(0xFF366350)
+val LightOutline = Color(0xFF6FAF91)
+val LightOutlineVariant = Color(0xFFB5DFCA)
+val LightError = Color(0xFFDC2626)
+val LightOnError = Color(0xFFFFFFFF)
+val LightErrorContainer = Color(0xFFFEE2E2)
+val LightOnErrorContainer = Color(0xFF7F1D1D)
